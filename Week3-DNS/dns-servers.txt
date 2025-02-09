@@ -1,0 +1,3 @@
+start scan -- 10.0.5.0/24 for port 53...
+10.0.5.22:53 is open
+scan done, go nuts.
